@@ -38,7 +38,7 @@ Trine 2
 Limbo
 ![limbo-tp](https://github.com/ChaoticScarlet/CodeCoven_Glitch_Golem/assets/147772507/98ca11ad-7bdf-46d3-975b-764221f84151)
 
-Super Mario Bros 2 (haven’t play it but someone told me it has a similar mechanic of changing character and different abilities)
+Super Mario Bros 2
 ![smb2-in-article-image2 png_1200x500_](https://github.com/ChaoticScarlet/CodeCoven_Glitch_Golem/assets/147772507/2475c8b6-ee6e-414e-9f85-a23ed34acdc2)
 
 Kirby
