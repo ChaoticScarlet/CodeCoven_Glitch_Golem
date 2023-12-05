@@ -88,7 +88,7 @@ Use the two characters to finish the level.
 ## Concept Art
 ![03_PlantGolem](https://github.com/ChaoticScarlet/CodeCoven_Glitch_Golem/assets/147772507/edf33513-35e4-4916-8040-26d8a673fc5b)
 ![03_PlantGolemv2](https://github.com/ChaoticScarlet/CodeCoven_Glitch_Golem/assets/147772507/b000f1f3-1bd6-43a7-b36d-baad0a363210)
-![Tiles_01](https://github.com/ChaoticScarlet/CodeCoven_Glitch_Golem/assets/147772507/a23df0e2-4fe7-4379-ab20-7bada9bf1232)
+![Concept](https://github.com/ChaoticScarlet/CodeCoven_Glitch_Golem/assets/147772507/8d8477b9-94c4-44d3-8712-1986067764c9)
 
 ## Art Style
 
